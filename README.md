@@ -1,7 +1,5 @@
 # Through the Covid-19 Lens
 
-DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
-
 Project Team Members: 
 - Iman Nematollahi, imnemato@ucsd.edu
 - Soon Gi Shin, sgs008@ucsd.edu
