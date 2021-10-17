@@ -1,4 +1,4 @@
-# Through the Covid-19 Lens
+# Through the Covid-19 Lens 
 
 Project Team Members: 
 - Iman Nematollahi, imnemato@ucsd.edu
